@@ -33,6 +33,15 @@ Data analysis helps identify the rot causes of issues, recognize trends and info
 - Impact awareness: ensure data analyst to communicate his findings responsibly and ethically.
 - Understanding context: including industry, market trends and organization goals.
 
+## Soft skills
+Communication, Diplomacy, Understanding end-users and Technical interpreter.
+
+By developing this skills we can achieve:
+- Better collaboration with stakeholders
+- Create better insights
+- Inspire change
+- Make bigger impact
+
 ### Tools
 - R
 - Python
@@ -45,5 +54,5 @@ Data analysis helps identify the rot causes of issues, recognize trends and info
 3. Data transformation
 4. Data analysis
 
-nce data is wrangle, its loaded in a data warehouse or data lake in order to be accessed and analyzed.
+Once data is wrangled, its loaded in a data warehouse or data lake in order to be accessed and analyzed.
 

@@ -5,6 +5,8 @@
 Discuss the problem and gather relevant business data about it.
 
 ### 2. Cleaning and processing data
+*This is part of the data preparation task*
+
 Ensure the data is accurate. This involves removing duplicates, filling missing values, correcting errors.
 
 ### 3. Analyzing data
@@ -20,7 +22,7 @@ Repeat the process to measure impact of management implementations based on the 
 ### Data engineer
 Designs, build and maintain the data infrastructure. He integrates datapipelines
 
-Pipeline: Clean, preprocess and transform raw data.
+*Pipeline: Clean, preprocess and transform raw data.*
 
 ### Data analyst
 Examine datasets to identify trends, patterns and insights to inform desicion-making. Use tools to vizualize and present data to stakeholders.

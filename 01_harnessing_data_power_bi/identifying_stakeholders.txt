@@ -1,0 +1,46 @@
+Ricci is the customer service manager. She is responsible for ensuring that customers are satisfied with the company's products and services.
+
+Influence: high
+Interest: high
+
+
+Igor is the finance manager. He oversees the company's financial operations.
+
+Influence: low
+Interest; High
+
+Jane is the IT manager. She manages the company's information technology department.
+
+Influence: low
+Interest: low
+
+Renee is the marketing director. She develops and executes marketing strategies that advertise and publicize the business's goods and services.
+
+Influence: high
+Interest: high
+
+Sam is the research and development manager. Sam manages the company's research and development department.
+
+Influence: high
+Interest: high
+
+Alex is the security operations manager. She manages the company's operations, including security and maintenance.
+
+Influence: low
+Interest: medium
+
+Nia is the legal counsel. She manages the company's legal affairs.
+
+Influence: low
+Interest: low
+
+Kane is the sales manager. He oversees the sales team and ensures that they meet their sales targets.
+
+Influence: medium
+Interest: high
+
+Hassan is the human resources manager. He manages the company's staffing and employment resources.
+
+Influence: low
+Interest: low
+
