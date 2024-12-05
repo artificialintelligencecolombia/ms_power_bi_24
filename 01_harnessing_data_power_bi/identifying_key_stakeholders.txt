@@ -1,0 +1,101 @@
+==============================
+IDENTIFYING STAKEHOLDERS
+==============================
+
+Identify and list the key stakeholders you think you should interview and the reason you selected them. Classify the stakeholders chosen by the level of influence and interest each might have in the sales data analysis project. 
+
+---------------------
+Stakeholders list
+---------------------
+
+1. Ricci is the customer service manager. She is responsible for ensuring that customers are satisfied with the company's products and services.
+- Influence: high
+- Interest: high
+- Reason: Ricci is aware of the customer satisfaction metrics. 
+
+- Questions: 
+	Cual es el top 3 de razones por las cuales los clientes nos contactan en os PQRs?
+	Cual es el indice de satisfaccion por regiones?
+	Como se califica el nivel de satisfaccion o insatisfaccion de los clientes?
+
+2. Igor is the finance manager. He oversees the company's financial operations.
+- Influence: low
+- Interest; High
+- Reason: Igor can forecast the company revenue based on the sales trends and historic data, but he has little knowledge in terms of customer KPI's.
+
+- Questions:
+	Como ha sido el comportamiento de las finanzas de la empresa desde que empezo a notarse la disminucion en ventas?
+	En caso tal que las ventas siguieran en tendecia a la baja, en que momento la compania entraria en crisis?
+	Cual es la meta en crecimiento y ventas para el proximo ano? Que tan factible es esta meta?
+
+
+3. Jane is the IT manager. She manages the company's information technology department.
+- Influence: medium
+- Interest: low
+Reason: Jane will be indispensable once the data analysis process is finished and ready to be implemented, in order to bring new tools and trending technologies for the marketing campaings.
+
+- Questions:
+	Cual es el top de plataformas de marketing con mayores tasas de conversion?
+	Que sistema de administracion de bases de datos tiene la empresa?
+	
+
+4. Renee is the marketing director. She develops and executes marketing strategies that advertise and publicize the business's goods and services.
+- Influence: high
+- Interest: high
+- Reason: Renee is the key stakeholder. She is the person who will receive from us the findings and insights based on the data analysis process, in order to improve the targeted marketing campaings and thus, enlarge the market share.
+
+- Questions:
+	- Cuales son las tasas de conversion de nuestras plataformas sociales y pagina web?
+	- Cuales son los KPIs de dichas plataformas?
+	- Cuales son los periodos del ano con mayores y menores interacciones/ventas?
+
+5. Sam is the research and development manager. Sam manages the company's research and development department.
+- Influence: low
+- Interest: medium
+- Reason: based on the obtained insights, Sam is now ready to test new products and/or new versions of the already existing products. This new developments/improvements will strengthen the company position in the market thanks to its adaptability and focus on the clients needs and feedback. 
+
+- Questions:
+	Tenemos planeado nuevos lanzamientos de productos a corto/mediano plazo?
+	Cuel(es) es(son) nuestro(s) producto(s) estrella?
+	Cuales son as nuevas tendencias de mercado? Cuales seran las del proximo ano?
+	Cual es nuestro ranking de calidad y desarrollo en el mercado? Como estamos respecto a nuestros competidores?
+
+6. Alex is the security operations manager. She manages the company's operations, including security and maintenance.
+- Influence: low
+- Interest: medium
+- Reason: Despite Alex could be no relevant for the data analysis project, she has the responsibility of guaratee high quality and delivering the production in time, so there're no delays on the sales process.
+
+- Questions:
+	Han habido fallas en produccion que conlleven a productos de menor calidad? En que momentos?
+	Cual es nuestra capacidad de produccion?
+	Como es la rotacion de inventarios?
+
+
+7. Nia is the legal counsel. She manages the company's legal affairs.
+- Influence: low
+- Interest: low
+- Reason: although Nia is responsible for the company's legal affairs, she will not be part of the data analysis project.
+
+- Questions: 
+	Hemos tenido problemas legales a causa de clientes insatisfechos? ¿Cuales son las razones	
+
+8. Kane is the sales manager. He oversees the sales team and ensures that they meet their sales targets.
+- Influence: medium
+- Interest: high
+- Reason: Kane is completely aware of the situation. He has historic information of the sales and whats the behavior of the customer along the year, finding what are the best and worst months in sales for the company. 
+
+- Questions:
+	Cual es la probabilidad de abrir mercado en nuevas regiones geograficas? Cual seria la inversion para ello?
+	Cuales son las temporadas del ano con mayores ventas?
+	Cual es la cobertura de nuestro equipo de ventas? Cuantos clientes maneja cada integrante?
+
+9. Hassan is the human resources manager. He manages the company's staffing and employment resources.
+- Influence: low
+- Interest: low
+- Reason: Hassan will be part of the motivation team in that moment we decide to work harder to implement the new marketing strategy in order to meet the company's goals.
+
+- Questions:
+	Cual es la perspectiva general del equipo de trabajo respecto a la situacion?
+	Cual es el nivel de motivacion de los integrantes de la empresa? Hay mucha o poca rotacion de personal?
+	Traigame un tinto.
+
