@@ -1,9 +1,9 @@
 # Goal of Data Analyst
-Data analysts dive deep in the data to uncover hidden, patterns, trends and insights. This drive to informed desicion-making.
+Data analysts dive deep in the data to uncover hidden patterns, trends and insights. This drive to informed desicion-making.
 
-## Data Aanlysis process
+## Data Analysis process
 ### 1. Data Prepararation
-Data Analysts gather, clean and preprocess data. It also includes transforming data to a mor suitable format.
+Data Analysts gather, clean and preprocess data. It also includes transforming data to a more suitable format.
 ### 2. Data Modeling
 Data analysts create a model that represents the structure, schema, relationships and constraints of the data. It ensures data remains consistent and accurate.
 

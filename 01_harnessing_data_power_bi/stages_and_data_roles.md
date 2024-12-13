@@ -27,7 +27,7 @@ Designs, build and maintain the data infrastructure. He integrates datapipelines
 ### Data analyst
 Examine datasets to identify trends, patterns and insights to inform desicion-making. Use tools to vizualize and present data to stakeholders.
 
-The work closely with other members of the company to align analysis to business goals.
+They work closely with other members of the company to align analysis to business goals.
 
 ### Data scientist
 Dive deeper into data to create predictive models using ML models and statistical techniques. 

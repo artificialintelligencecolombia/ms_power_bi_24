@@ -13,7 +13,7 @@
 ## Role of data analyst
 data -> **data analyst** -> insights -> stakeholders -> informed desitions.
 
-Data analysis helps identify the rot causes of issues, recognize trends and inform decisions that drive businesses forward.
+Data analysis helps identify the root causes of issues, recognize trends and inform decisions that drive businesses forward.
 
 > [!WARNING]
 > The inability to interpret data means that a company is unable to identify opportunities.
