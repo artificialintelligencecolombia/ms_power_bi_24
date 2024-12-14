@@ -5,6 +5,42 @@ IDENTIFYING STAKEHOLDERS
 Identify and list the key stakeholders you think you should interview and the reason you selected them. Classify the stakeholders chosen by the level of influence and interest each might have in the sales data analysis project. 
 
 ---------------------
+Stakeholder Experience
+---------------------
+
+1. Identify stakeholders 
+2. Define the goal of the stakeholders
+3. Choose the right visualization type
+4. Design with stakeholder experience in mind
+5. Make visualizations interactive
+6. Testing, iterating
+
+----------------------
+Stakeholder Experience
+---------------------
+
+1. What is the primary goal of data visualization in the data analysis process?
+To make calculations to explore the data and create visual representations of the data that allow to extract insights.
+
+2. Define the stakeholder experience in the context of data analysis and visualization
+The objective is to understand the group of people that will use the data. By doing so, our mission is to communicate information based on the user needs, requirements and expectations.
+
+3. Explain two reasons why stakeholder experience is important when creating data visualizations.
+- To make the data analysis process relevant to the stakeholder and easy to understand.
+- To make impact in the company by providing high quality visualizations.
+
+5. making questions to stakeholders, understanding the context of the company.
+
+6. What is one challenge you think Adio may face in designing data visualizations that meet the needs of the different stakeholders?
+He must to take the proper time to understand each groups objectives, language, kpis and take a full understanding of the company.
+
+7. Briefly discuss what you need to consider when choosing the right visualization type for stakeholders.
+Access the objective of the visualization, what is the scope and the kpis.
+
+8. What is the purpose of making visualizations interactive?
+Provide advanced tools to the user in order to extract as much information as possible.
+
+---------------------
 Stakeholders list
 ---------------------
 

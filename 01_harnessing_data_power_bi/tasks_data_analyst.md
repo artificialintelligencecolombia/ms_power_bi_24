@@ -17,7 +17,7 @@ There're several types of data models, including:
 This is the core of data analysis, where data analysts digs deep to uncover insights and answer questions.
 - Descriptive: basic description of data
 - EDA: dig deeper to find patterns
-- Inferential: uses available data to make predictions about things outside the data.
+- Inferential: uses available data to make predictions about bigger population of the data.
 - Predictive analysis: predict what might happen in future based in the past.
 
 Techinques:
