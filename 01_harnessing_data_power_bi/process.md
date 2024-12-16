@@ -21,8 +21,6 @@ RAW DATA: different formats, missing values, duplicate entries, different source
 ### Data processing and data analysis
 Data processing: transform raw data, it involves data integration (CONSOLIDATE data from different sources).
 
-RAW DATA: multiple souces, different formats, missing values, duplicate entries.
-
 ETL Process = Data processing.
 
 ### Data analysis
@@ -40,6 +38,6 @@ Vizualizations:
 - uncover insights
 
 ### sharing insights (data reporting)
-- access and seccurity.
-- accesibility, color schemes, font sizes.
--storage, backup, refresh schedules.
+- access and security: web content accesibility guidelines (wcag), responsive, available offline, browser compatibility.
+- color schemes, font sizes.
+- storage, backup, refresh schedules.

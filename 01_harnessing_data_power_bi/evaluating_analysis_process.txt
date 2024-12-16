@@ -1,0 +1,55 @@
+==============================
+EVALUATING ANALYSIS PROCESS
+==============================
+
+Examine the steps performed in the data analysis process 
+
+Data collection
+-----------------
+1. What should data analysts do in preparation for data collection to ensure the effectiveness of the data analysis process?
+Define the purpose of the analysis, the data types and the scope.
+
+2. As a part of data collection, the data analyst gathered data from various sources. Why is this an important best practice?
+To guarantee that the analysis will be performed with all possible data available, leading to more detailed insights.
+
+Data organization and cleaning
+-----------------
+3. Before proceeding with data analysis, the data analyst organized and cleaned the data. What is the purpose of this step in the data analysis process?
+To ensure data is accurate.
+
+4. What are two common issues the data analyst may have encountered during the data organization and cleaning step?
+Empty rows, different data formats.
+
+Data analysis
+-----------------
+5. Briefly discuss two data sources that the data analyst may have analyzed to generate the sample of insights.
+Sales, Marketing and social.
+
+Data visualization
+-----------------
+6. sWhat is the role of visualizations in the data analysis process?
+Represent data, communicate information, aid understanding, uncover insights.
+
+Generating data-driven recommendations
+-----------------
+7. Data analysts make recommendations based on the insights gained during data analysis. Why are data-driven recommendations important for businesses like the café?
+Data driven recommendations describes the real situation of a company and provides solutions  based on the gathered information, leading to ready-to-implement solutions.
+
+8. Based on the data insights gained, list two actionable data-driven recommendations you could make to help the café improve its foot traffic and sales.
+Focus on plant-based products in the menu, strenghten the social presence of the cafe.
+
+Implementing the recommendations and monitoring the results
+-----------------
+9. What should the data analyst have done during implementing recommendations and monitoring results step? 
+Discover those new implementations with better results and iterate over those findings.
+
+10. Why is the step of implementing recommendations and monitoring results important?
+It allows to refine the business strategy created from the analysis.
+
+Additional steps
+-----------------
+11. An additional step is fostering a data-driven culture. How could the data analyst work with Taylor to promote a data-driven culture throughout the process? Why do you think this is important?
+Maybe by highlighting to the business owner the findings and making her aware of the information discovered through the analysis.
+
+12. It is also important to monitor and evaluate the data analysis process itself. This can be done as a part of the overall process or as a separate step once it has ended. Why do you think it is important to evaluate whether a data analysis process is done correctly?
+To refine the process and discover those unchangeable steps across the different analysis.
