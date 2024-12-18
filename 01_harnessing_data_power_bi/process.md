@@ -1,10 +1,10 @@
 # Data Analyss Process
 
 1. Define analysis purpose
-2. Data collection
-3. Data processing
-4. Data exploration and analysis
-5. Data reporting
+2. Data collection and processing
+3. Data exploration and analysis
+4. Data visualization and reporting
+5. Insight implementation
 
 ### Define purpose
 1.Analysis purpose -> 2.Relevant types of data -> 3.Data scope
@@ -18,15 +18,15 @@ It could be from:
 Sales, Customer, Manufacturing, Purchasing, Inventory, Marketing, R+D. (NORMALLY IN RAW FORMAT)
 RAW DATA: different formats, missing values, duplicate entries, different sources.
 
-### Data processing and data analysis
+### Data processing
 Data processing: transform raw data, it involves data integration (CONSOLIDATE data from different sources).
 
 ETL Process = Data processing.
 
-### Data analysis
+### Data exploration and analysis
 Calculations, Vizualizations
 
-Calculations:
+Calculations/DAX:
 - Total revenue
 - Profit margin
 - average order value
@@ -37,7 +37,8 @@ Vizualizations:
 - aid understanding
 - uncover insights
 
-### sharing insights (data reporting)
-- access and security: web content accesibility guidelines (wcag), responsive, available offline, browser compatibility.
-- color schemes, font sizes.
-- storage, backup, refresh schedules.
+### sharing insights (Data reporting)
+- accesibility: web content accesibility guidelines (wcag), responsive, available offline, browser compatibility.
+- visual appeal: color schemes, font sizes.
+- storage, backup, updates.
+- security.

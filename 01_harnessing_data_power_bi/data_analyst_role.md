@@ -22,6 +22,7 @@ Data analysis helps identify the root causes of issues, recognize trends and inf
 > - Stay ahead of competition.
 
 ### Tasks
+This is like the resume of data analyst role.
 1. Collecting data
 2. Organizing data
 3. Analyzing data

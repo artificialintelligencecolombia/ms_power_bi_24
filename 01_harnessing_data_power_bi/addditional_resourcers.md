@@ -8,5 +8,3 @@
 ### Power BI blog
 [Power BI blog](https://powerbi.microsoft.com/en-us/blog/)
 
-### Excel Blog
-[Excel blog](https://techcommunity.microsoft.com/category/microsoft365/blog/excelblog)

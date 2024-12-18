@@ -29,6 +29,11 @@ Examine datasets to identify trends, patterns and insights to inform desicion-ma
 
 They work closely with other members of the company to align analysis to business goals.
 
+- Uncover data insights.
+- Identify problem causes.
+- Spot patterns and trends.
+- Enhance desicion-making.
+
 ### Data scientist
 Dive deeper into data to create predictive models using ML models and statistical techniques. 
 
