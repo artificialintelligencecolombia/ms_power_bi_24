@@ -1,8 +1,10 @@
 # ETL
 ### ETL Process
-1. Extract: retrieve and extract data from sources (CRM, ERP, Spreadsheets, Databases). 
-2. Transform: prepare data for analysis. Remove duplicates, handle missing values, create calculated fields, convert data ypes, standardize measurement units. It can be done one time or regularly.
-3. Load: cloud-based data wharehouse.
+1. Extract: retrieve and extract data from sources (Databases, files, CRM, ERP, Spreadsheets). 
+2. Transform: prepare data for analysis. Remove duplicates, handle missing values, create calculated fields, convert data types, standardize measurement units. It can be done one time or regularly.
+3. Load: storage, cloud-based data wharehouse.
+
+THE ETL PROCESS ENSURES THE DATA IS CLEANED, CONSISTANT, ACCURATE.
 
 ### ETL Benefits
 - Data integration: from different sources unified into the same analysis.

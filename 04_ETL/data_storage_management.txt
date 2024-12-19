@@ -1,0 +1,31 @@
+# DATA STORAGE AND MANAGEMENT
+## Answer the questions below to complete the excercise.
+
+1. For each data source, list the data type (structured and/or unstructured) and storage needs, for example, security, access and storage capacity in relation to data volume and storage duration (short- and or long-term).
+
+2. Based on the data sources at Adventure Works, which storage solution(s) (on-premises, cloud-based, or hybrid) are most suitable for storing data from each source? Explain your reasoning.
+
+Sales data: structured data, cloud-based storage and long term storage duration. 
+Manufacturing data: structured data, on premise/hybrid storage and long term storage duration
+Financial data: structured data, hybrid storage and long term storage duration
+Market research: unstructured data, cloud-based storage and short term storage duration
+Social media: unstructured data, cloud-based storage and short term storage duration
+
+3. Discuss four key factors to consider when selecting a data storage solution for Adventure Works.
+- Scalability
+- Accesibility
+- Security
+- Data types
+
+
+4. What are the main advantages of hybrid storage for Adventure Works, and how can it help the company optimize its data storage solutions?
+Hybrid storage solution combines advantages from both on premise and cloud-based solution. This will help AW in the sense that production data can be managed on premises and another data source can be managed through cloud, due the international market share of the company.
+- Flexibility
+- Scalability
+- Security
+
+5. Given Adventure Works' rapid growth and expanding data volumes, which aspects of data management should the company prioritize?
+- data governance
+- data quality 
+- data integration
+* data security
