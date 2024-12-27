@@ -9,3 +9,7 @@ Data connectivity and data preparation tool. Prepare for data analysis, clean, t
 - Connect and consolidate data from different sources
 - Clean and transform data
 - Automate data preparation: records the data cleaning process in order to create workflows.
+
+### Power Query workflow
+Distributed data -> Connect to data sources -> Extract data -> Consolidate data
+

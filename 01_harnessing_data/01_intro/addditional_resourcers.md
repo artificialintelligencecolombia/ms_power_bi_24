@@ -8,3 +8,7 @@
 ### Power BI blog
 [Power BI blog](https://powerbi.microsoft.com/en-us/blog/)
 
+
+### Ten techniques to clean data in excel
+[Clean data in excel](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+

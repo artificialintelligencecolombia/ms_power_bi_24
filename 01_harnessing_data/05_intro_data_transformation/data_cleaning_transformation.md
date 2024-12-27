@@ -8,7 +8,11 @@ Identifying and correcting errors and inconsistencies in the data.
 Cleaning data can be at the source or in power bi.
 
 ### Data Transformation
-Involves altering the struucture, formats or values of the data to make it more suitable for analysis.
+It is the process of converting raw data into a more meaningful and usable format.
+Involves altering the structure, formats or values of the data to make it more suitable for analysis.
+- Remove duplicates
+- Filling missing values
+- Consistent formatting
 - Aggregate data
 - Converting data types
 - Normalizing values
