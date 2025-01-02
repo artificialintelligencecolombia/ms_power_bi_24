@@ -1,7 +1,7 @@
 # AI DEFINITIONS
 
 ### ai
-Systems capable of preforming tasks that requires human ntelligence. Ml is within the center of ai
+Systems capable of performing tasks that requires human intelligence. Ml is within the center of ai
 
 ### ml
 Consists in the development of algorithms and models that enable the computers to learn and make predictions or make decisions based on data.
@@ -17,7 +17,7 @@ Consists in the development of algorithms and models that enable the computers t
 Linear regression, decision trees, random forests, neural networks, support vector machines, k-means clustering, and hierarchical clustering.
 
 #### data handling
-Ml requires: robust data preprocessing, normalization, handling missing data. and feature selection to improve accuracy.
+Ml requires: robust data preprocessing, normalization, handling missing data and feature selection to improve accuracy.
 
 ### deep learning
 DL is an advanced branch of ML that uses artificial neural networks with multiple layers, known as deep neural networks. 

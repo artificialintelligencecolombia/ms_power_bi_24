@@ -35,7 +35,7 @@ provide personalized training experiences
 
 4. Management & Legal:
 Draft contracts
-Ensumer compliance
+Ensure compliance
 
 ### GenAI for Writing
 We can configure the tone, stryle, and target audience and adapt to different 
