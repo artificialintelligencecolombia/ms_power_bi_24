@@ -1,0 +1,28 @@
+# EXCEL COMMANDS
+
+## Commands
+
+### 02/01/2025:
+
+1. Jump to the beginning of the worksheet:
+ctrl + ins
+
+2. Jump to the end of the worksheet:
+ctrl + end
+
+3. Select blocks: 
+shift + ctrl + ins
+shift + ctrl + end
+
+4. Rename cells:
+select the cell -> Go to Name Box -> change the cell name (i.e: d15) to <cell_name>
+CHECK CELL: Formulas -> Defined Names -> Name Manager
+
+5. Select entire row:
+- shift + space
+
+6. Select entire column:
+- ctrl + b
+
+7. Select a range of cells to the edge of a data region
+- Ctrl + Shift + Arrow Keys
