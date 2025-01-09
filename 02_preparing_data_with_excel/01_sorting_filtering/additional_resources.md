@@ -16,3 +16,12 @@
 
 ### Shortcut list in excel
 [Shortcut list](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f#bkmk_navigatecellswin)
+
+### Excel functions by category
+[Excel functions by category](https://support.microsoft.com/en-us/office/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+
+### How to correct a #REF! error
+[How to correct a #REF! error](https://support.microsoft.com/en-us/office/how-to-correct-a-ref-error-822c8e46-e610-4d02-bf29-ec4b8c5ff4be)
+
+### How to correct a #NAME? error
+[How to correct a #NAME? error](https://support.microsoft.com/en-us/office/how-to-correct-a-name-error-b6d54e31-a743-4d7d-9b61-40002a7b4286)
