@@ -1,7 +1,7 @@
-# Text Based 
-### Errors
+# Text Based Functions
+### Common errors in data
 - Mispelling
-- Unnecesary characters
+- Unnecesary characters (i.e. $)
 - Unncesessary spaces
 - Incorrectly placed entry
 
@@ -33,3 +33,16 @@ B2: _______Juan Magana_______
 
 - TRIM(B2)
 Juan Magana
+
+### UPPER, LOWER and PROPER
+
+- UPPER:converts all characters into uppercase
+- LOWER: converts all characters into lowercase
+- PROPER: sets all the words to capital.
+
+### CONCAT
+Combine entries from different cells in a spreadsheet into a single-cell entry. 
+
+- =CONCAT(A2,” “,B2,” “,C2)
+
+Note: the arguments " " are spaces that are added to the final string text.
