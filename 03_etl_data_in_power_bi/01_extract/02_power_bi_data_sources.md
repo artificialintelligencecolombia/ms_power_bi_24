@@ -25,3 +25,18 @@ Below is a list of the types of data sources available in Power BI service and s
 
 1. File: Excel workbooks, Power BI Desktop, or .pbix report files, and CSV
 2. Database: Azure SQL Database, Azure Synapse Analytics, formerly SQL Data Warehouse, Spark on Azure HDInsight
+
+### Flat Files
+Contains a single data table.
+- CSV
+- Excel
+- txt
+
+### IMPORTANT: Flat Files
+1. The dataset is provided as a flat file: Your workbook must not have any total rows or columns.
+
+2. All data in each column should be of the same type: Whether it is dates, text or currency, each column must contain the same type of data.
+
+3. The file is in an easily readable table format. It does not contain pivot tables or matrix formats
+
+4. A space-free name: Give your table a name that is easy to remember. Just remember that the name cannot contain any spaces.
