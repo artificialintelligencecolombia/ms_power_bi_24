@@ -1,0 +1,24 @@
+# Sales Data Structure Documentation
+### Table Overview
+This table represents a detailed sales transaction log with order-level information.
+
+### Column Definitions
+1. Primary Identifiers
+    SalesOrderID: Main order identifier grouping multiple items
+    SalesOrderDetailID: Unique identifier for each line item
+2. Transaction Details
+    OrderQty: Quantity ordered (ranges 1-25)
+    ProductID: Unique product identifier
+    UnitPrice: Base price per unit
+    UnitPriceDiscount: Discount rate (ranges 0.02-0.4)
+    LineTotal: Final amount calculated as: OrderQty × UnitPrice × (1 - UnitPriceDiscount)
+3. System Fields
+    rowguid: System-generated unique identifier
+    ModifiedDate: Transaction timestamp
+
+### Business Rules
+
+1. Each line represents a product within an order
+2. Orders can contain multiple quantities
+3. Discounts are applied as decimal rates
+4. Line totals reflect quantity and discount calculations
