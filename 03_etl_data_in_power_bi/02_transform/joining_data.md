@@ -44,6 +44,7 @@ Your manager asks you to list all products with their category names and identif
 - Combines information from different sources.
 - Ensures proper alignment of relevant information.
 - Enables comprehensive analysis and meaningful insights.
+- Its useful to identify rows with typing errors
 
 ## Conclusion:
 Joining data enhances your analytical capabilities, unlocking the full potential of your data. Whether using merge or append operations, joining ensures datasets are aligned and integrated for impactful analysis.
@@ -68,3 +69,11 @@ Consistency: Once established, keys should rarely change
 - Non-standardized formats
 - Missing reference values
 - Changing key values frequently
+
+### Step-by-step process
+1. Set objectives 
+2. Identifying data sources
+3. Data transformation
+4. Data joining/merging *
+5. Data analysis
+6. Sharing insights with stakeholders 

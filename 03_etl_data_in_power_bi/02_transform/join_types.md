@@ -34,3 +34,5 @@
 1. Essential for data validation and finding inconsistencies between tables
 2. Powerful for data migration projects to ensure no data is lost
 3. Great for identifying referential integrity issues in your database
+
+NOTE: join key = foreign key
