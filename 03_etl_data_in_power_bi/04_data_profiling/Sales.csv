@@ -1,0 +1,37 @@
+Hi Daniel,
+
+- Hi Sean,
+
+Thanks for your interest in the role and for the context you provided! It looks like you have a lot of experience managing complex data, and I’d love to see how it aligns with the challenges we’re tackling. I wanted to share more about the first problem we’re working to solve and get your thoughts.
+
+- Thank you for the invititation and sharing me your info and issues from it
+
+We manage three main entities—Properties, Contacts, and Phone Numbers—sourced from multiple platforms (CRMs, text messaging services, data enrichment providers). For instance:
+
+- Ok, let me assess the objective of the project and all the process steps- We're going to proceed accordingly Microsoft's Data Analysis guidelines in order to created a robust and comprehensive process. Initially we have 1 dataset composed of 3 entities(tables) from diverse sources. At this stage, the first step is connect the 3 data sources to the software that allows us to perform the ETL process: Power Bi. By doing this we accomplished the data collection step and already have it in a single place to be processed.
+
+Properties often arrive with slightly different address formats (e.g., “123 Main Street” vs. “123 Main St.”), incomplete fields, or conflicting records from various sources. Multiple owners can be linked to a single property.
+
+- Data processing aims to transform data into the desired format, Power Bi's Power Query tool is precisely design to clean it into the desired format prior to integrate all the entities. Functions: 
+
+Contacts may have multiple phone numbers and emails—some outdated, some invalid—plus potential variations in name spelling or formatting, making it tough to know if two “John Smiths” are the same person.
+
+
+
+Phone Numbers can be labeled “verified,” “questionable,” or “unverified.” New or duplicate numbers often appear when we import fresh data from text messaging platforms or other tools, and some numbers may be shared across different contacts.
+
+
+
+Were looking to start by building a system that can:
+
+
+
+-Deduplicate & Merge related records in near real-time, ensuring we don’t lose crucial details when combining data from different sources.
+-Verify & Enrich contact information continuously, pulling from external services but flagging uncertain data for manual review.
+-Automate Workflows (with tools like n8n, Zapier, or Make), complete with error handling, alerts, and retry logic, so updates stay in sync across platforms.
+-Enable Targeted Outreach by allowing flexible filtering and segmentation, ensuring we only reach out to the right contacts with the best data.
+-Scale & Adapt as we add new data sources or dramatically increase volume over time.
+
+
+
+I’d love to hear your thoughts on designing, integrating, and maintaining a solution like this—especially in terms of data modeling, handling inconsistencies, and automating updates. If you’ve tackled similar challenges before, I'd love to hear your experiences working through the complexities

@@ -7,7 +7,7 @@ Its composed of the following tasks:
 
 ### Where is LOAD (ETL step) located in Power Bi?
 **LOAD**:
-- data loaded diractly
+- data loaded directly
 - data can be transformed in a later stages
 
 **TRANSFORM**:
