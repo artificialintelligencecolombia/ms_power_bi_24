@@ -28,7 +28,7 @@ By choosing the appropriate data load option, you can optimize memory usage and 
 ### Power Query Editor options
 Power Query Editor provides advanced options for data transformation and shaping. Within the editor, you can customize various settings, such as enabling the formula bar, adjusting row limits, managing query dependencies, and enabling or disabling query previews. These options allow you to tailor the Power Query Editor environment to your specific requirements, enhancing your data preparation and transformation process.
 
-Conclusion
+### Conclusion
 For aspiring Power BI analysts, exploring and using the global options available in Power BI can greatly enhance file management and data processing capabilities. From choosing the appropriate file storage option to optimizing query performance and customizing Power Query Editor settings. The global options you learned about in this reading enable you to tailor Power BI to your specific needs. 
 
 Note: It's recommended to regularly review and adjust the global options as your needs change so that you can optimize your Power BI experience.
