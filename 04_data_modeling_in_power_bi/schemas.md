@@ -7,7 +7,7 @@
 - Defines the data structure
 - Enables efficient analysis
 - Assists with visualizations
-- Leads to meaningful insisghts
+- Leads to meaningful insights
 
 ### Types of Schemas
 
