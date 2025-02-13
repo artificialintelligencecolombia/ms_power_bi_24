@@ -7,7 +7,10 @@ Example: A dataset containing each customer's purchase, including product ID, ti
 
 - By exceeding the granularity level can lead to overload of data and slow queries
 
-### low granularity: Data is aggregated or summarized, providing a broader view rather than individual details. It simplifies analysis but reduces specificity.
+- Data granularity is about having the appropiate level of detail
+
+### low granularity: 
+Data is aggregated or summarized, providing a broader view rather than individual details. It simplifies analysis but reduces specificity.
 Example: A dataset showing total monthly sales per region without individual transactions.
 
 - By misusing low granularity levels could lead to misrepresented data and incorrect insights
