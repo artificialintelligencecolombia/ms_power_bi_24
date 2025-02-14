@@ -20,3 +20,47 @@ Options and settings -> Data load (CURRENT FILE section) -> uncheck 'Auto detect
 1. Open the power bi project that contains the star schema
 2. Normalize the (necessary) dimension tables by creating new tables (using DAX)
 3. Create relationships between the normalized dimension tables 
+
+### Two methods of normalizing
+1. GROUPBY
+2. DISTINCT + SELECTCOLUMNS
+
+#### 1. Groupby
+```DAX
+Category = GROUPBY('Table_Product', 'Table_Product'[CategoryID], 'Table_Product'[Category])
+```
+Components:
+- Table_Product: The source table.
+- Table_Product[Category ID], Table_Product[Category]: Columns used for grouping.
+
+Features:
+- Returns a virtual table (not physically stored).
+- Groups Table_Product by Category ID and Category, keeping only distinct values.
+- Does not allow aggregations (e.g., sum, average).
+- Needs to be wrapped inside another function like ADDCOLUMNS to add calculations.
+
+#### 2. Distinct + Selectcolumns
+```DAX
+Category_Dim = DISTINCT ( 
+    SELECTCOLUMNS ( 
+        Table_Product, 
+        "Category ID", Table_Product[Category ID], 
+        "Category", Table_Product[Category] 
+    ) 
+)
+```
+Components:
+- SELECTCOLUMNS ( Table, "NewColumnName1", Column1, "NewColumnName2", Column2 )
+    - Table_Product: Source table.
+    - "Category ID", Table_Product[Category ID]: Creates a column named "Category ID" from Table_Product[Category ID].
+    - "Category", Table_Product[Category]: Creates a column named "Category" from Table_Product[Category].
+- DISTINCT (Table): Removes duplicate rows from the table created by SELECTCOLUMNS.
+
+Features:
+- Creates a physical table stored in the data model.
+- Ensures only unique values for Category ID and Category.
+- More efficient for a snowflake schema where Category is a separate dimension.
+
+#### Conclusion
+1. If you're restructuring your model for snowflake schema, use DISTINCT + SELECTCOLUMNS because it creates a physical table you can relate to Table_Product.
+2. GROUPBY is better for temporary calculations, but it's not ideal for dimension tables.
