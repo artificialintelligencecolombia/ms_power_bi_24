@@ -29,11 +29,11 @@ Options and settings -> Data load (CURRENT FILE section) -> uncheck 'Auto detect
 ```DAX
 Category = GROUPBY('Table_Product', 'Table_Product'[CategoryID], 'Table_Product'[Category])
 ```
-Components:
+#### Components:
 - Table_Product: The source table.
 - Table_Product[Category ID], Table_Product[Category]: Columns used for grouping.
 
-Features:
+#### Features:
 - Returns a virtual table (not physically stored).
 - Groups Table_Product by Category ID and Category, keeping only distinct values.
 - Does not allow aggregations (e.g., sum, average).
@@ -49,14 +49,14 @@ Category_Dim = DISTINCT (
     ) 
 )
 ```
-Components:
+#### Components:
 - SELECTCOLUMNS ( Table, "NewColumnName1", Column1, "NewColumnName2", Column2 )
     - Table_Product: Source table.
     - "Category ID", Table_Product[Category ID]: Creates a column named "Category ID" from Table_Product[Category ID].
     - "Category", Table_Product[Category]: Creates a column named "Category" from Table_Product[Category].
 - DISTINCT (Table): Removes duplicate rows from the table created by SELECTCOLUMNS.
 
-Features:
+#### Features:
 - Creates a physical table stored in the data model.
 - Ensures only unique values for Category ID and Category.
 - More efficient for a snowflake schema where Category is a separate dimension.
@@ -64,3 +64,15 @@ Features:
 #### Conclusion
 1. If you're restructuring your model for snowflake schema, use DISTINCT + SELECTCOLUMNS because it creates a physical table you can relate to Table_Product.
 2. GROUPBY is better for temporary calculations, but it's not ideal for dimension tables.
+
+### Data model redesign process
+1. Normalize dimension tables
+2. Create new tables
+3. Stablish cardinality (relationships) between tables
+4. Create hierarchies
+5. Compute custom calculations using DAX
+7. Test and validate
+8. Document the changes
+9. Transform and validate data
+10. Optimize the model
+11. Implement the model
