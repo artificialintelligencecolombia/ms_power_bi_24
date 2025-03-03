@@ -1,15 +1,20 @@
 # Row context and Filter context 
 
 ### Row context
-Eefers to the current row when evaluating a calculated column or a row-level calculation. Think of it as evaluating one row at a time, with access to values in other columns of that same row
+- Evaluates each row independently
+Refers to the current row when evaluating a calculated column or a row-level calculation. Think of it as evaluating one row at a time, with access to values in other columns of that same row
 
 ```
 Revenue = Sales[Quantity] * Sales[UnitPrice]
 // For each row, DAX multiplies the Quantity and UnitPrice values from the same row
 ```
 
+For each row in the Sales table, this formula calculates Total Price using the values from that row.
+
+Calculated columns rely on row context
+
 ### Filter context
-El contexto de filtro en DAX es el conjunto de restricciones que determinan qué filas de datos están disponibles para un cálculo en un momento específico.
+Represents all active filters in a report, measure, or query
 ```
 North Sales 2023 = 
 CALCULATE(
@@ -20,3 +25,5 @@ CALCULATE(
 ```
 
 DAX always applies the filter and then it calculates the row-level calculation
+
+Measures rely on filter context
