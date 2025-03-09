@@ -45,7 +45,7 @@ Username: <username>
 Password: <password>
 CLICK connect
 
-### 4. List database objects
+### 4. List all database objects (Those who appear in the load window when connecting to the database via power bi)
 
 ```psql
 SELECT n.nspname AS schemaname,  -- Select the schema name

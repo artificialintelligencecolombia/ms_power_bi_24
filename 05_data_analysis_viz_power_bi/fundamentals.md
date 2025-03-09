@@ -9,5 +9,8 @@ analytical processing
 querying
 reporting
 data vizualization *
-data analysis *
+data analysis; uncover the reasons behind the trends and patterns. What is happening and why is happening.*
 
+### Data vizualization
+Data vizualization make data accesible. 
+They enable real time data analysis
