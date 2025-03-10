@@ -13,16 +13,16 @@ Factory Overhead = Indirect costs related to production (e.g., utilities, deprec
 ### 3. Operating expenses
 rent for the office spaces, salaries of non-production employees, insurance, utility costs, and equipment upkeep. Keeping track of operating expenses is critical for company to identify areas to improve cost efficiency, thus boosting net income.
 
-- Talent Acquisition & Development: Hire top-tier employees and provide continuous training. Invest in leadership development and retention strategies.
-- Technology & Digital Transformation: Automate processes (AI, cloud computing, ERP systems). Invest in cybersecurity and data protection.
-- Strong Brand & Marketing Strategy: Build a recognizable brand with consistent messaging. Invest in digital marketing, SEO, and customer engagement.
-- Financial Health & Risk Management: Maintain strong cash flow and reinvest profits. Diversify revenue streams and manage debt wisely.
-- Customer Experience & Retention: Invest in customer service and loyalty programs. Use data analytics to improve customer insights.
-- Innovation & R&D: Continuously improve products/services to stay ahead. Allocate budget for research, prototyping, and testing.
-- Operational Efficiency & Scalability: Streamline supply chains and optimize logistics. Invest in lean manufacturing and process improvements.
-- Sustainable & Ethical Practices: Adopt ESG (Environmental, Social, Governance) principles. Invest in sustainable production and ethical sourcing.
-- Strategic Partnerships & Networking: Form alliances with key industry players. Expand globally through joint ventures or acquisitions.
-- Data-Driven Decision Making: Implement BI tools (Power BI, Tableau) for real-time insights. Leverage predictive analytics for strategic planning.
+**- Talent Acquisition & Development:** Hire top-tier employees and provide continuous training. Invest in leadership development and retention strategies.
+**- Technology & Digital Transformation:** Automate processes (AI, cloud computing, ERP systems). Invest in cybersecurity and data protection.
+**- Strong Brand & Marketing Strategy:** Build a recognizable brand with consistent messaging. Invest in digital marketing, SEO, and customer engagement.
+**- Financial Health & Risk Management:** Maintain strong cash flow and reinvest profits. Diversify revenue streams and manage debt wisely.
+**- Customer Experience & Retention:** Invest in customer service and loyalty programs. Use data analytics to improve customer insights.
+**- Innovation & R&D:** Continuously improve products/services to stay ahead. Allocate budget for research, prototyping, and testing.
+**- Operational Efficiency & Scalability:** Streamline supply chains and optimize logistics. Invest in lean manufacturing and process improvements.
+**- Sustainable & Ethical Practices:** Adopt ESG (Environmental, Social, Governance) principles. Invest in sustainable production and ethical sourcing.
+**- Strategic Partnerships & Networking:** Form alliances with key industry players. Expand globally through joint ventures or acquisitions.
+**- Data-Driven Decision Making:** Implement BI tools (Power BI, Tableau) for real-time insights. Leverage predictive analytics for strategic planning.
 
 ### 4. Net Income
 Revenue - ( cost of goods sold, expenses, depreciation and amortization, interest, and taxes, and other expenses for an accounting period)
@@ -68,10 +68,10 @@ COGS refers to the direct costs of producing the goods a company sells. In the c
     - Office rent & admin costs
     - General business expenses
 
-Cost of Goods Sold (COGS) in the Real Estate Industry
+#### Cost of Goods Sold (COGS) in the Real Estate Industry
 In real estate, COGS applies primarily to property developers, real estate flippers, and rental property owners who sell properties as part of their business. It represents the direct costs of acquiring, developing, or improving a property for sale.
 
-COGS Components in Real Estate
+#### COGS Components in Real Estate
 1. Real Estate Developers & Property Flippers
 ✅ Land Acquisition Costs – Purchase price of land or existing property
 ✅ Construction Costs – Materials, labor, and subcontractor fees

@@ -1,0 +1,6 @@
+# Sales report terms
+**- Sales revenue:** Sales revenue refers to the total income a company earns from selling its products and services. as a decrease in sales revenue may indicate that the company needs to adjust its production, marketing, or customer relations strategies.
+
+**- Sales growth:** This metric measures the rate at which sales revenue increases or decreases for a company's products over a certain period. It's crucial in understanding market trends, gauging customer demand, and making strategic decisions. A company it may decide to allocate more resources to marketing and enhancing this product line.
+
+**- Conversion rate:** Conversion rate is the ratio of the total number of conversions (completed sales) to the total number of potential leads or site visitors. A high conversion rate for Adventure Works would imply that their marketing and sales strategies are effective in converting potential customers to actual ones. If the conversion rate is low, the company may need to analyze its sales funnel and customer journey to identify areas of improvement.
