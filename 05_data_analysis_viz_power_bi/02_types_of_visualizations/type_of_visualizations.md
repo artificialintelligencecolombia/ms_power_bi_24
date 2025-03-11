@@ -17,7 +17,7 @@ Treemap
 KPIs
 Area chart: line chart with color in the area below the line
 Donut chart
-Combo chart (Line and column)
+Combo chart (Line and column): combination of both charts
 Card and Multi-row card
 Matrix
 Table: details
