@@ -6,3 +6,6 @@ Accesible reports involves various considerations:
 3. Use proper headers and scope in tabular data. Avoid using merged cells
 4. Use plain language and clear, concise sentences. Avoid using tech jargon without explanation
 
+
+## Accesibility tools
+Alt + Tab + arrow keys: Navigate through the Power BI ribbon using keyboard shortcuts.
